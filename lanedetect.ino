@@ -18,8 +18,8 @@ int minAngle = 0; // minimum steering wheel angle
 int maxAngle = 100; // maximum steering wheel angle
 
 // ALERT OUTPUT
-int led = 4; // led pin #
-int speaker = 5; // speaker pin #
+int led = 5; // led pin #
+int speaker = 6; // speaker pin #
 int alertTime = 500; // time of alert in ms
 
 void setup() {
